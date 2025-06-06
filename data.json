@@ -1,0 +1,17 @@
+{
+  "technicians": [
+    {
+      "name": "John Doe",
+      "coords": [30.4369, -87.5756]
+    }
+
+  ],
+
+  "customers": [
+    {
+      "name": "Jane Smith",
+      "coords": [30.4369, -87.9756]
+    }
+
+  ]
+}
