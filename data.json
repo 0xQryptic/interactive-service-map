@@ -2,16 +2,13 @@
   "technicians": [
     {
       "name": "John Doe",
-      "coords": [30.4369, -87.5756]
+      "address": "222 W Main St, Pensacola, FL 32502"
     }
-
   ],
-
   "customers": [
     {
       "name": "Jane Smith",
-      "coords": [30.4369, -87.9756]
+      "address": "501 S Alcaniz St, Pensacola, FL 32502"
     }
-
   ]
 }
