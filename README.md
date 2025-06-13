@@ -33,9 +33,9 @@ We will build this application in stages, with each phase resulting in a functio
 * **Key Tasks:**
     - [x] Create a `data.json` file to store technician and customer information.
     - [x] Modify the Python script to read its data from this `data.json` file.
-    - [ ] Install the `geopy` library.
-    - [ ] Write a function to geocode addresses from the JSON file into latitude/longitude coordinates.
-    - [ ] Implement error handling for invalid addresses.
+    - [x] Install the `geopy` library.
+    - [x] Write a function to geocode addresses from the JSON file into latitude/longitude coordinates.
+    - [x] Implement error handling for invalid addresses.
 * **Key Learnings:** Working with JSON files, API interaction (`geopy`), robust error handling.
 
 ### Phase 3: Building a UI for Data Management (v0.3)
@@ -68,7 +68,7 @@ We will build this application in stages, with each phase resulting in a functio
 ### Phase 6: Real-Time Traffic Integration
 ...
 
-### Phase 7: Unique AI & Differentiator Features
+### Phase 7: Unique AI, Differentiator Features, & Historical Data
 ...
 
 ### Phase 8: Packaging & Deployment
@@ -82,4 +82,4 @@ We will build this application in stages, with each phase resulting in a functio
 * **Core Libraries:** `folium`, `geopy`, `requests`, `os`, `shutil`
 * **Web Framework:** Flask (or similar like Django)
 * **Database:** JSON file initially, then potentially SQLite.
-* **APIs:** Nominatim (for geocoding), OpenRouteService/Google Maps/Mapbox (for routing & optimization).
+* **APIs:** ArcGIS (for geocoding), OpenRouteService/Google Maps/Mapbox (for routing & optimization).
